@@ -4,8 +4,7 @@
   "description": "Word search puzzle generator",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon test.js",
-    "debug": "nodemon index.js"
+    "debug": "nodemon test.js"
   },
   "repository": {
     "type": "git",
